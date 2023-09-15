@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Python backend**
 
-- 👨‍💻 All of my projects are available at [https://oyekamal.github.io/oykamal/](https://oyekamal.github.io/oykamal/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://oykamal.netlify.app/)
 
 - 💬 Ask me about **Django, Flask, docker...**
 
