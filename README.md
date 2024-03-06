@@ -63,9 +63,11 @@
 <br>
 <div align="center">
 
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=oyekamal&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  
+  <br/>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oyekamal&theme=gruvbox" alt="GitHub Streak" /></a>
 
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=oyekamal&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
