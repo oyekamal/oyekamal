@@ -1,10 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oyekamal&label=Profile%20views&color=0e75b6&style=flat" alt="oyekamal" /> </p>
 
-
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h2 align="center">Full stack developer!</h2>
-
-
 
 - 🔭 I’m currently working on **FPV Drone**
 
@@ -17,8 +14,6 @@
 - 💬 Ask me about **Django, Flask, Docker, AWS...**
 
 - 📫 How to reach me **oyekamalkhan@gmail.com**
-
-
 
 <h2 align="Center">Connect with me:</h2>
  
@@ -37,7 +32,6 @@
   </a>
 </div>
 
- 
 <h2 align="center">Languages and Tools:</h2>
 <br/>
 
@@ -58,16 +52,16 @@
   <br/><br/><br/>
 </div>
 
-
-<h2 align="center">S Stats </h2>
+<h2 align="center"> Stats </h2>
 <br>
 <div align="center">
 
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=oyekamal&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  
-  <br/>
+
+<br/>
+
+<br/>
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oyekamal&theme=gruvbox" alt="GitHub Streak" /></a>
-
 
 </div>
