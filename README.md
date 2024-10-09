@@ -10,10 +10,8 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://oykamal.netlify.app/)
 
 - 💬 Ask me about **Django, Flask, Docker, AWS...**
-
-- 📫 How to reach me **oyekamalkhan@gmail.com**
   
-- 🔧 Check out my animation automation tool for demos on YouTube: dailyYGstories
+- 🔧 Check out my animation automation tool for demos on YouTube: [dailyYGstories](https://www.youtube.com/@DailyYGStories/shorts)
 
 <h2 align="Center">Connect with me:</h2>
  
