@@ -3,17 +3,17 @@
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h2 align="center">Full stack developer!</h2>
 
-- 🔭 I’m currently working on **FPV Drone**
+- 🔭 Working on **Building Control system using ESP32** 
 
-- 🌱 I’m currently learning **AWS**
-
-- 👯 I’m looking to collaborate on **Python Backend**
+- 🌱 Learning **System Design, Design, and Architecture**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://oykamal.netlify.app/)
 
 - 💬 Ask me about **Django, Flask, Docker, AWS...**
 
 - 📫 How to reach me **oyekamalkhan@gmail.com**
+  
+- 🔧 Check out my animation automation tool for demos on YouTube: dailyYGstories
 
 <h2 align="Center">Connect with me:</h2>
  
