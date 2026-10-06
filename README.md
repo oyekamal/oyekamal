@@ -1,113 +1,37 @@
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=oyekamal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
-
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm <span style="color:#ff9800;">Muhammad Kamal</span></h1>
-<h3 align="center">🚀 Full Stack Developer | System Design Enthusiast | IoT + AI Explorer</h3>
-
----
-
-### 💡 About Me  
-
-- 🔭 Currently working on: **Building Control System using ESP32**  
-- 🌱 Exploring: **System Design, Architecture & Scalable Backend Systems**  
-- 🧠 Passionate about: **Automation, IoT, and AI-driven applications**  
-- 🎨 Side Project: [dailyYGstories](https://www.youtube.com/@DailyYGStories/shorts) — Animation automation tool for YouTube  
-- 👨‍💻 Portfolio: [oykamal.netlify.app](https://oykamal.netlify.app)  
-- 💬 Ask me about: **Django, Flask, Docker, AWS, ESP32, and Microservices**  
-
----
-
-### 🧰 Tech Stack  
+<h3 align="center">Muhammad Kamal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,react,typescript,javascript,docker,aws,postgres,mysql,redis,linux,bash,arduino,opencv" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,elasticsearch,cassandra,git,github,bootstrap,postman,ubuntu" />
+  R&D Engineer · Problem Hunter
+  <br>
+  <a href="https://oykamal.netlify.app">Portfolio</a> · <a href="https://www.linkedin.com/in/oykamal/">LinkedIn</a> · <a href="https://x.com/oykamal">X</a> · <a href="https://youtube.com/@oykamal">YouTube</a> · <a href="mailto:oyekamalkhan@gmail.com">Email</a>
 </p>
 
----
+<br>
 
-### 🌐 Connect with Me  
+I find problems people keep tripping over, then ship the smallest thing that fixes them. I do this on the Tinkering R&D team at [Taleemabad](https://taleemabad.com).
 
-<p align="center">
-  <a href="mailto:oyekamalkhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/muhammad-kamal-025600121" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://oykamal.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="https://instagram.com/oykamal" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+Before R&D I spent five years on backend. At Taleemabad that meant Django on AWS for 10,000+ daily users: **40% lower API latency**, zero-downtime migrations on tables with millions of rows, and **60% faster incident recovery**.
 
----
+#### Problem → shipped
 
-<h2 align="center">📈 GitHub Analytics</h2>
+**[claude-code-flow-visualizer](https://github.com/oyekamal/claude-code-flow-visualizer)** · ★14\
+Nobody could see what a Claude Code setup actually does, so this renders any harness as an interactive graph. It runs entirely in the browser.
 
-<div align="center">
-  
-  <!-- Main GitHub Stats -->
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=oyekamal&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=10" 
-    alt="Kamal's GitHub stats" 
-  />
+**[maps2whatsapp](https://github.com/oyekamal/maps2whatsapp)** · ★12\
+Freelancers can't afford lead tools, so this finds businesses on Google Maps and messages them over WhatsApp, with drafts written by a local AI. No API keys.
 
-  <!-- Streak Stats -->
-<p align="center">
-  <img 
-    width="48%" 
-    src="https://streak-stats.demolab.com?user=oyekamal&theme=tokyonight&border_radius=10" 
-    alt="GitHub Streak Stats" 
-  />
-</p>
+**[kamil-agent](https://github.com/oyekamal/kamil-agent)** · ★8 · 4 forks\
+I was drowning in busywork across five projects, so I built an AI engineer for Slack, Notion and GitHub. It acts only on plans I approve.
 
+**[harness-evolve](https://github.com/oyekamal/harness-evolve)** · found 88 stale rules on its first run\
+Self-editing agents tend to get worse, so here an edit lands only if it wins on held-out tasks.
 
-  <!-- Top Languages -->
-  <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyekamal&layout=compact&langs_count=10&theme=tokyonight&border_radius=10" 
-    alt="Top Languages Used" 
-  />
+**[urdu-reading-course](https://github.com/oyekamal/urdu-reading-course)** · 1,463 audio clips · [live app](https://oyekamal.github.io/urdu-reading-course/app/)\
+Many kids in Pakistan leave school unable to read, so I made a free, offline, research-backed course. There's an [English one](https://github.com/oyekamal/english-reading-course) too.
 
+**[freecad-claude-house-designer](https://github.com/oyekamal/freecad-claude-house-designer)** · 700+ parametric objects\
+House design in Pakistan is mostly guesswork, so here Claude drives FreeCAD to a load-checked, FEM-verified 5-marla house.
 
-</div>
+#### Now hunting
 
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oyekamal&theme=gruvbox&no-bg=true&no-frame=true&column=6" />
-</p>
-
----
-
-<h2 align="center">🔥 Recent GitHub Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyekamal&theme=gruvbox&radius=12&area=true&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/oyekamal/esp32-building-control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oyekamal&repo=esp32-building-control&theme=tokyonight&border_radius=10" />
-  </a>
-  <a href="https://github.com/oyekamal/animation-automation-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oyekamal&repo=animation-automation-tool&theme=tokyonight&border_radius=10" />
-  </a>
-</p>
-
----
-
-### ✨ Fun Fact  
-> “The best code is written not when there is nothing more to add,  
-> but when there is nothing left to take away.” – Antoine de Saint-Exupéry  
-
----
-
-<!-- Footer Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=480&lines=Designing+Systems+that+Scale;Turning+Ideas+into+Reliable+Software;Automating+the+Future+with+Code;Full+Stack+Developer+from+Pakistan">
-</p>
+An offline reading app for cheap phones ([sound-out](https://github.com/oyekamal/sound-out)), and the [real problems homeschooling families face](https://github.com/oyekamal/homeschooling-pakistan). Got a problem worth hunting? [Email me](mailto:oyekamalkhan@gmail.com).
